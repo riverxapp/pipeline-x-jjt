@@ -1,0 +1,15 @@
+.git
+node_modules
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+logs
+*.log
+dist
+build
+.next
+.cache
+.DS_Store
+Thumbs.db
+coverage
+tmp
